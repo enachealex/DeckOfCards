@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LWTech.AlexEnache.Assignment3
+namespace AlexEnache
 {
 
     public enum Suit { Clubs, Diamonds, Hearts, Spades};

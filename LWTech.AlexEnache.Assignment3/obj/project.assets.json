@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\romok\\OneDrive\\Desktop\\School\\Classes\\CS - C#\\Assignment3\\LWTech.AlexEnache.Assignment3\\LWTech.AlexEnache.Assignment3\\LWTech.AlexEnache.Assignment3.csproj",
-      "projectName": "LWTech.AlexEnache.Assignment3",
-      "projectPath": "C:\\Users\\romok\\OneDrive\\Desktop\\School\\Classes\\CS - C#\\Assignment3\\LWTech.AlexEnache.Assignment3\\LWTech.AlexEnache.Assignment3\\LWTech.AlexEnache.Assignment3.csproj",
+      "projectUniqueName": "D:\\GitHub Folder\\DeckOfCards\\LWTech.AlexEnache.Assignment3\\DeckOfCards.csproj",
+      "projectName": "DeckOfCards",
+      "projectPath": "D:\\GitHub Folder\\DeckOfCards\\LWTech.AlexEnache.Assignment3\\DeckOfCards.csproj",
       "packagesPath": "C:\\Users\\romok\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\romok\\OneDrive\\Desktop\\School\\Classes\\CS - C#\\Assignment3\\LWTech.AlexEnache.Assignment3\\LWTech.AlexEnache.Assignment3\\obj\\",
+      "outputPath": "D:\\GitHub Folder\\DeckOfCards\\LWTech.AlexEnache.Assignment3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\romok\\AppData\\Roaming\\NuGet\\NuGet.Config",

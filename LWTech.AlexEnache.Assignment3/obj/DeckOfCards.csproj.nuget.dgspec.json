@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub Folder\\DeckOfCards\\LWTech.AlexEnache.Assignment3\\LWTech.AlexEnache.Assignment3.csproj": {}
+    "D:\\GitHub Folder\\DeckOfCards\\LWTech.AlexEnache.Assignment3\\DeckOfCards.csproj": {}
   },
   "projects": {
-    "D:\\GitHub Folder\\DeckOfCards\\LWTech.AlexEnache.Assignment3\\LWTech.AlexEnache.Assignment3.csproj": {
+    "D:\\GitHub Folder\\DeckOfCards\\LWTech.AlexEnache.Assignment3\\DeckOfCards.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub Folder\\DeckOfCards\\LWTech.AlexEnache.Assignment3\\LWTech.AlexEnache.Assignment3.csproj",
-        "projectName": "LWTech.AlexEnache.Assignment3",
-        "projectPath": "D:\\GitHub Folder\\DeckOfCards\\LWTech.AlexEnache.Assignment3\\LWTech.AlexEnache.Assignment3.csproj",
+        "projectUniqueName": "D:\\GitHub Folder\\DeckOfCards\\LWTech.AlexEnache.Assignment3\\DeckOfCards.csproj",
+        "projectName": "DeckOfCards",
+        "projectPath": "D:\\GitHub Folder\\DeckOfCards\\LWTech.AlexEnache.Assignment3\\DeckOfCards.csproj",
         "packagesPath": "C:\\Users\\romok\\.nuget\\packages\\",
         "outputPath": "D:\\GitHub Folder\\DeckOfCards\\LWTech.AlexEnache.Assignment3\\obj\\",
         "projectStyle": "PackageReference",
