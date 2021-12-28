@@ -1,0 +1,25 @@
+C:\Users\Alex's Laptop\Desktop\School\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\bin\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.exe
+C:\Users\Alex's Laptop\Desktop\School\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\bin\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.deps.json
+C:\Users\Alex's Laptop\Desktop\School\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\bin\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.runtimeconfig.json
+C:\Users\Alex's Laptop\Desktop\School\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\bin\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.runtimeconfig.dev.json
+C:\Users\Alex's Laptop\Desktop\School\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\bin\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.dll
+C:\Users\Alex's Laptop\Desktop\School\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\bin\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.pdb
+C:\Users\Alex's Laptop\Desktop\School\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\obj\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.csprojAssemblyReference.cache
+C:\Users\Alex's Laptop\Desktop\School\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\obj\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.AssemblyInfoInputs.cache
+C:\Users\Alex's Laptop\Desktop\School\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\obj\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.AssemblyInfo.cs
+C:\Users\Alex's Laptop\Desktop\School\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\obj\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.dll
+C:\Users\Alex's Laptop\Desktop\School\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\obj\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.pdb
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\bin\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.exe
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\bin\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.deps.json
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\bin\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.runtimeconfig.json
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\bin\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.runtimeconfig.dev.json
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\bin\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.dll
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\bin\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.pdb
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\obj\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.csproj.AssemblyReference.cache
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\obj\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\obj\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.AssemblyInfoInputs.cache
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\obj\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.AssemblyInfo.cs
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\obj\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\obj\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.dll
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\obj\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.pdb
+C:\Users\romok\OneDrive\Desktop\School\Classes\CS - C#\Assignment3\LWTech.AlexEnache.Assignment3\LWTech.AlexEnache.Assignment3\obj\Debug\netcoreapp3.0\LWTech.AlexEnache.Assignment3.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nnY/Hi6sRDu82a+qEs73iLEe6tGOX8xsG3wzXeN9xWPUqlixoOHSPMTsb8KXX1l52Lt4M58n1TuICay/i/cbLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\romok\\OneDrive\\Desktop\\School\\Classes\\CS - C#\\Assignment3\\LWTech.AlexEnache.Assignment3\\LWTech.AlexEnache.Assignment3\\LWTech.AlexEnache.Assignment3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\romok\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\romok\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\romok\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\romok\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
